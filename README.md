@@ -7,5 +7,3 @@ akusio源镜像备份
 镜像来自Netskao
 
 源地址https://netskao.github.io/akusio-Repo-Mirror/
-
-目前仅有MilkyWay和BackgrounderAction

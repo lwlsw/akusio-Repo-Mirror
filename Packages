@@ -49,6 +49,40 @@ Author: akusio <akusio-report@neko2.net>
 Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
 Name: BackgrounderAction2 for CCSupport
 
+Package: jp.akusio.kernbypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 380
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debs/jp.akusio.kernbypass_0.0.2_iphoneos-arm.deb
+Size: 12098
+MD5sum: bf11d32c8efe3576fb1716ad28227f0b
+SHA1: d54a0131ea51d21447be7950ef6cb495f751dc1a
+SHA256: 612ca12f0818ed7763806d87f0e4f977d5b208b2dd67b0997745bc0e39a434b2
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+
+Package: jp.akusio.kernbypass
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 544
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debs/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
+Size: 15114
+MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
+SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
+SHA256: 2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+
 Package: jp.akusio.milkyway
 Version: 0.1.4beta
 Architecture: iphoneos-arm
